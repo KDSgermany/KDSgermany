@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KDSgermany
+- 💞️ I'm only here, because my developer friend told me so...
+- 📫 How to reach me: www.juergenkrauss.de
