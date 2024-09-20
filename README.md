@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @KDSgermany
-- 💞️ I'm only here, because my developer friend told me so...
-- 📫 How to reach me: www.juergenkrauss.de
+- 👋 This is the GitHub account of **Krauss Digitale Dienstleistungen** germany
+- 🌐 Website development with Python Django + Wagtail
+- 📫 Get in contact: www.juergenkrauss.de
